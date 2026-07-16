@@ -3,7 +3,6 @@
 ## uv管理项目（创建一个全新的项目）
 - uv init my-project
     my-project/
-    │
     ├── .python-version
     ├── pyproject.toml
     ├── README.md
